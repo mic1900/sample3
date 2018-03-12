@@ -1,1 +1,3 @@
 plik1 sample3
+
+some change i think it is possible to merge
